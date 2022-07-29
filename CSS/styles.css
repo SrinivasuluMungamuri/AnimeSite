@@ -1,0 +1,302 @@
+body
+{
+    background-color: #6D8B74;
+
+}
+.intro
+{
+ background-color: #F0EBE3;
+ height: 600px;
+ width: 90%;
+ border-radius: 50px;
+ position: relative;
+ left: 80px;
+ margin: 20px 0px 20px;
+}
+.anime
+{
+    background-color: #F2D7D9;
+    height: 550px;
+    width: 90%;
+    border-radius: 50px 50px 0 0;
+    position: relative;
+    left: 80px;
+    margin-bottom: 0;
+}
+.anime2
+{
+    background-color: #F2D7D9;
+    height: 550px;
+    width: 90%;
+    border-radius: 0 ;
+    position: relative;
+    left: 80px;
+    margin-bottom: 0px;
+    margin-top: 0;
+    bottom: 3rem;
+}
+.anime3
+{
+    background-color: #F2D7D9;
+    height: 550px;
+    width: 90%;
+    border-radius: 0 ;
+    position: relative;
+    left: 80px;
+    margin-bottom: 0;
+    margin-top: 0;
+    bottom: 6rem;
+}
+.anime4
+{
+    background-color: #F2D7D9;
+    height: 550px;
+    width: 90%;
+    border-radius: 0 ;
+    position: relative;
+    left: 80px;
+    margin-bottom: 0;
+    margin-top: 0;
+    bottom: 11rem;
+}
+.anime5
+{
+    background-color: #F2D7D9;
+    height: 550px;
+    width: 90%;
+    border-radius: 0 0 50px 50px;
+    position: relative;
+    left: 80px;
+    margin-top: 0;
+    bottom: 14rem;
+}
+.gaming
+{
+    background-color: #DFBB9D;
+    height: 600px;
+    width: 90%;
+    border-radius: 50px;
+    position: relative;
+    left: 80px;
+}
+.hi
+{
+    height: 580px;
+    width: 200px;
+    padding-top: 20px;
+    float: left;
+    margin-left: 5rem;
+    margin-right: 8rem;
+}
+.hello
+{
+    color: #30AADD;
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+    position: relative;
+    left: 10rem;
+    top: 8rem;
+}
+
+.intr
+{
+    color: #001D6E;
+    font-size: 1.4rem;
+    padding-top: 9rem;
+    padding-left: 3rem;   
+    padding-right: 20rem;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    line-height: 2;
+}
+.anim{
+    font-family: 'Lobster', cursive;
+    position: relative;
+    left: 9rem;
+    top: 4rem;
+    font-size: 3rem;
+    color: #0093AB;
+}
+.haimg
+{
+ float: right;
+ position: relative;
+ height: 20rem;
+ width: 30rem;
+ margin-left: 8rem;
+}
+.haikyu
+{
+    position:relative; 
+    top: 5rem;
+    left: 5rem;
+    font-size: 2.8rem;
+    color: #4C3A51;
+    
+}
+.haik
+{
+    position: relative;
+    top: 6rem;
+    padding-left: 5rem;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    line-height: 2;
+}
+.hr1
+{
+    position: relative;
+    top: 3rem;
+    border-style: groove;
+    height: .3rem;
+    background-color: #0093AB;
+}    
+.haikyulink
+{
+    text-decoration: none;
+}
+
+.a2h2
+{
+    position:relative; 
+    top: 5rem;
+    left: 5rem;
+    font-size: 2.8rem;
+    color: #4C3A51;
+}
+.dimg
+{
+    position: relative;
+    height: 20rem;
+    width: 20rem;
+    float: left;
+    top: 7rem;
+    left: 3rem;
+    margin-right: 10rem;
+}
+.a3h2
+{
+    position:relative; 
+    top: 5rem;
+    left: 5.5rem;
+    font-size: 2.8rem;
+    color: #4C3A51;
+
+}
+.a4h2
+{
+    position:relative; 
+    top: 2rem;
+    left: 5.5rem;
+    font-size: 2.8rem;
+    color: #4C3A51;
+
+}
+.a5h2
+{
+    position:relative; 
+    top: 5rem;
+    left: 5rem;
+    font-size: 2.8rem;
+    color: #4C3A51;
+
+}
+.nimg
+{
+    position: relative;
+    height: 24rem;
+    width: 20rem;
+    float: right;
+    top: 2rem;
+    right: 3rem;
+    margin-left: 13rem;
+    
+}
+.dcimg
+{
+    position: relative;
+    height: 27rem;
+    width: 15rem;
+    float: left;
+    right: 4rem;
+    margin-left: 13rem;
+}
+.pimg
+{
+    position: relative;
+    height: 25rem;
+    width: 20rem;
+    float: right;
+    top: 1rem;
+    right: 2rem;
+    margin-left: 15rem;
+}
+.a2con
+{
+    position: relative;
+    top: 10rem;
+    left: 2.5rem;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    line-height: 2;
+    padding-right: 8.2rem;
+}
+.a3con
+{
+    position: relative;
+    top: 6rem;
+    left: 2.5rem;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    line-height: 2;
+    padding-left: 3rem;
+}
+.a4con
+{
+    position: relative;
+    top: 9rem;
+    left: 2.5rem;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    line-height: 2;
+    padding-right: 5rem;
+}
+.a5con
+{
+    position: relative;
+    top: 7rem;
+    left: 2.5rem;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    line-height: 2;
+    padding-left: 3rem;
+}
+.dlink
+{
+    text-decoration: none;
+}
+.nlink
+{
+    text-decoration: none;
+}
+.dclink
+{
+    text-decoration: none;
+    
+}
+.plink
+{
+    text-decoration: none;
+}
+.htxt
+{
+    position: absolute;
+    top: 21rem;
+    left: 8rem;
+    height: 7rem;
+    width: 35rem;
+    opacity: 0.09;
+
+}
+.dtxt
+{
+    position: absolute;
+    height: 8rem;
+    width: 40rem;
+    right: 11rem;
+    opacity: 0.09;
+}
